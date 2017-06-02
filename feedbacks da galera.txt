@@ -1,0 +1,3 @@
+editar melhor as figuras para nao aparecer a barra com meus icones.
+
+enviar o cod para o github
